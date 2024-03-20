@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HrushyaK
+- 👋 Hi, I’m Hrushikesh 
 - 👀 I’m interested in Azure DevOps
 - 🌱 I’m currently learning Azure DevOps
 - 💞️ I’m looking to collaborate on Learning GitHub
